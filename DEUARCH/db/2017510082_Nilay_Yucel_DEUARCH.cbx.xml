@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="2017510082_Nilay_Yucel_DEUARCH">
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|FORV:inst11|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_2cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Nilay_Yucel_2017510082_Lab4:inst18|LPM_ADD_SUB1:inst10|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_9vh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Yedek_BUS_Nilay_Yucel_2017510082:inst|LPM_COUNTER01:OUTPUTRegister|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4ii.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Yedek_BUS_Nilay_Yucel_2017510082:inst|LPM_COUNTER01:Register1|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4ii.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|DataMemory:inst17|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_efi1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|LPM_COUNTER01:SPointer|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4ii.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|StackMemory:inst4|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_bji1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Yedek_BUS_Nilay_Yucel_2017510082:inst|LPM_COUNTER01:Register2|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4ii.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Yedek_BUS_Nilay_Yucel_2017510082:inst|MUX04:inst17|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_f6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|MUXForSELC:inst5|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_b6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Yedek_BUS_Nilay_Yucel_2017510082:inst|Decoder:inst14|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Yedek_BUS_Nilay_Yucel_2017510082:inst|MUX04:inst18|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_f6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|ADD_SUB:inst39|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_hlg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|Decode_IR:inst4|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_lbf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|MUXForSELC:inst6|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_b6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|SequenceCounter:inst1|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_bri.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|InstrutionMemory:inst5|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_j1b1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|MUXPC:inst8|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_d6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Nilay_Yucel_2017510082_Lab4:inst18|LPM_MUX4:inst1|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_48e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|PC:inst6|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_qqj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Yedek_BUS_Nilay_Yucel_2017510082:inst|MUX01:mux01|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_i6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|ADDRESS_R:inst3|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|IR:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_jdj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|MUXForSELC:inst7|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_b6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|MUXPC1:inst38|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_d6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Yedek_BUS_Nilay_Yucel_2017510082:inst|LPM_COUNTER01:INPRegister|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4ii.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|CUDECODER:inst35|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_5af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Control_Unit_2017510082_Nilay_Yucel_1:inst23|MUX:inst8|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_96e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|MUXFORDM:inst7|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_c6e.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Nilay_Yucel_2017510082_Lab4:inst18|LPM_ADD_SUB1:inst|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_9vh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|2017510082_Nilay_Yucel_DEUARCH|Yedek_BUS_Nilay_Yucel_2017510082:inst|LPM_COUNTER01:Register0|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4ii.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

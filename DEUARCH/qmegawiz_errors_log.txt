@@ -1,0 +1,7 @@
+
+
+C:/altera/Nilay_Yucel_2017510082/BUS_NilayYucel_2017510082/LPM_Counter.vhd
+
+Apr 14 08PM:15:37>: Variation file name (LPM_Counter) is identical with the name of one of its sub-components.
+
+MegaWizard Plug-In Manager will rename the variation to "LPM_Countea" to prevent compilation errors
